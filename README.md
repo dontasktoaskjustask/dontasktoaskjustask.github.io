@@ -1,4 +1,4 @@
-# dontasktoaskjustask.github.io
+# [dontasktoaskjustask.github.io](https://dontasktoaskjustask.github.io/)
 
 ## Don't ask to ask, Just ask.
 
