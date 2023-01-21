@@ -1,6 +1,6 @@
 # dontasktoaskjustask.github.io
 
-Don't ask to ask, Just ask.
+## Don't ask to ask, Just ask.
 
 Often there is a message in a chat asking to ask. This is a very poor way of getting help.
 
@@ -10,14 +10,17 @@ When you ask to ask,
 - Often, trolls ask to ask, which experienced helpers might ignore you for the chance of you being a troll.
 - Most likely, you aren't providing anything to the conversation. 
 
-Just ask.
+## Just ask.
 
 To properly get help. You just need to politely ask for help.
 
 When you just ask,
 - You'll save everyones time.
-- Get quicker responses .
+- Get quicker responses.
 - Lower the chances of getting ignored.
 
-
-cont.
+## How to ask?
+To learn how to ask a good questons check these links out:
+[https://stackoverflow.com/help/how-to-ask](https://stackoverflow.com/help/how-to-ask)
+and
+[http://catb.org/~esr/faqs/smart-questions.html](http://catb.org/~esr/faqs/smart-questions.html)
